@@ -49,8 +49,41 @@ SEARCH_TERMS = [
     "quais são os maiores navios do mundo", "como fazer geleia de uva", "melhores praias do mundo",
     "como fazer sabão líquido para roupa", "benefícios do chá de hibisco", "como aprender a fotografar",
     "melhores aplicativos para academia", "como fazer sabonete natural", "curiosidades sobre animais aquáticos",
-    "quais são os maiores aviões militares", "como fazer desinfetante caseiro", "melhores filmes de drama"
+    "quais são os maiores aviões militares", "como fazer desinfetante caseiro", "melhores filmes de drama",
+    "como fazer suco detox", "melhores exercícios para perder peso", "como melhorar a memória",
+    "como parar de roer unhas", "quais são os alimentos ricos em ferro", "como fazer panqueca americana",
+    "como aprender matemática rápido", "curiosidades sobre lobos", "como plantar suculentas",
+    "como cuidar de um hamster", "melhores filmes baseados em fatos reais", "como fazer brownie caseiro",
+    "como treinar um cachorro filhote", "como fazer um currículo para primeiro emprego",
+    "como economizar energia elétrica", "como fazer arroz soltinho", "como limpar vidros sem deixar manchas",
+    "como acabar com mofo em casa", "como melhorar a postura", "melhores aplicativos para edição de fotos",
+    "como se tornar um freelancer", "como ganhar dinheiro online", "como fazer um bolo de cenoura fofinho",
+    "como aprender francês sozinho", "como aprender a tocar teclado", "quais são os maiores países do mundo",
+    "como aliviar o estresse", "curiosidades sobre o Egito Antigo", "como montar uma horta vertical",
+    "como fazer um currículo para estágio", "como aliviar dor nas costas", "como organizar a rotina de estudos",
+    "como fazer pipoca caramelizada", "quais são os sintomas de estresse", "como fazer ioga em casa",
+    "como plantar tomate em vasos", "como eliminar formigas da cozinha", "melhores filmes de romance",
+    "como fazer bolo de laranja simples", "como organizar documentos em casa",
+    "como fazer máscara facial caseira", "como treinar um gato para usar a caixa de areia",
+    "como fazer um chá relaxante", "melhores séries para maratonar", "como dormir melhor à noite",
+    "como fazer pão de queijo caseiro", "como limpar manchas de roupas brancas",
+    "como aprender espanhol rapidamente", "quais são as profissões do futuro",
+    "como montar um home office eficiente", "como melhorar a concentração nos estudos",
+    "como fazer panetone caseiro", "como criar um hábito saudável", "como acabar com a insônia naturalmente",
+    "quais são as frutas mais saudáveis", "como fazer cookies crocantes", "como aprender a desenhar rostos",
+    "como se tornar um programador", "como fazer maquiagem básica para o dia a dia",
+    "como cuidar da pele oleosa", "como evitar o desperdício de alimentos", "como fazer cappuccino caseiro",
+    "como criar um canal no YouTube de sucesso", "como eliminar dores musculares",
+    "como fazer uma apresentação profissional", "como melhorar a respiração durante o exercício",
+    "como fazer sushi em casa", "como limpar prata escurecida", "como aumentar a produtividade no trabalho",
+    "como se tornar um escritor", "como fazer uma sobremesa rápida", "como se organizar financeiramente",
+    "como fazer exercícios sem equipamentos", "como preparar um café da manhã saudável",
+    "como se livrar da ansiedade", "como criar senhas seguras", "como fazer sorvete caseiro",
+    "como lidar com a procrastinação", "como limpar o forno corretamente", "como fazer crepioca",
+    "como entender a linguagem corporal", "como fazer massa de pizza caseira",
+    "como montar um jardim em apartamento", "como fazer uma festa infantil econômica"
 ]
+
 
 # Arquivo para salvar o progresso
 PROGRESS_FILE = "progress.txt"
